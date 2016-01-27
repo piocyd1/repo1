@@ -1,1 +1,2 @@
 Bartek tu byl
+To jest zmiana na master
